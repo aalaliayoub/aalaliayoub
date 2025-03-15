@@ -3,7 +3,7 @@
   <img src="https://img.freepik.com/photos-gratuite/collage-arriere-plan-programmation_23-2149901789.jpg?t=st=1741848255~exp=1741851855~hmac=f35ee6bf8fe1e09b8998a1e70a6e1d6118af0e7626e3e003684916bff8e1d1bd&w=1800" alt="Programming Banner"/>
 </p>
 
-### <h1 align="center">👋 Hi, I'm Aalali Ayoub</h1>
+### <h1 align="center">👋 Hi, I'm Ayoub Aalali </h1>
 <h3 align="center">Software Engineering & Business Intelligence Student | FSTE</h3>
 
 
