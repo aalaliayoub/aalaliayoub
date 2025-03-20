@@ -63,9 +63,27 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aalaliayoub&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalaliayoub&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalaliayoub&layout=compact&theme=radical&langs_count=20" alt="Top Languages" />
 </p>
 
----
 
+---
+<div align="center" style="
+    text-align: center; 
+    background: linear-gradient(to right, #f7f7f7, #e6e6e6); 
+    padding: 20px; 
+    border-radius: 10px;
+    font-family: 'Traditional Arabic', serif;
+    font-size: 24px;
+    color: #2c3e50;
+    border: 2px solid #d4af37;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
+    width: fit-content;
+    margin: auto;
+">
+    وَقُلِ ٱعْمَلُواْ فَسَيَرَى ٱللَّهُ عَمَلَكُمْ وَرَسُولُهُۥ وَٱلْمُؤْمِنُونَ ۖ وَسَتُرَدُّونَ إِلَىٰ عَٰلِمِ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
+</div>
+ 
+
+---
 ⭐️ **Thanks for visiting! Feel free to connect!** 🚀
