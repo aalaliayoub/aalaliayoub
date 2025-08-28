@@ -6,6 +6,10 @@
 ### <h1 align="center">👋 Hi, I'm Ayoub Aalali </h1>
 <h3 align="center">Software Engineering & Business Intelligence Student | FSTE</h3>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Ayoub+Aalali..&hearts;++;Software+Engineering,;Business+Intelligence+Student,;Full-Stack+web+developer,;Love+to+learn+new+stuffs..."></a>
+</p>
+
 
 
 ---
@@ -13,7 +17,7 @@
 ### 📫 Contact Me:
 - 📞 **Tel:** +212635880977  
 - 📧 **Email:** [ayoubaalali404@gmail.com](mailto:ayoubaalali404@gmail.com)  
-- 📍 **Location:** Tinghir, Hay Afanour, Morocco
+- 📍 **Location:** MOROCCO, TINGHIR, HAY AFANOUR
 
 ---
 
